@@ -1,0 +1,23 @@
+{
+  "name": "sdd-framework",
+  "version": "1.0.0",
+  "description": "Complete Specification-Driven Development framework with 5 integrated skills for writing, validating, testing, implementing, and syncing specifications",
+  "author": {
+    "name": "AstroSteveo",
+    "url": "https://github.com/astrosteveo"
+  },
+  "homepage": "https://github.com/astrosteveo/sdd-framework",
+  "repository": "https://github.com/astrosteveo/sdd-framework",
+  "license": "MIT",
+  "keywords": [
+    "specification",
+    "sdd",
+    "spec-driven-development",
+    "tdd",
+    "testing",
+    "validation",
+    "implementation",
+    "workflow",
+    "SDL"
+  ]
+}
